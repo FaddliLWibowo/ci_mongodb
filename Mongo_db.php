@@ -4,8 +4,7 @@
  *
  * @category  Library
  * @package   CodeIgniter
- * @author    Alex Bilbie <alex@alexbilbie.com>
- * @copyright 2012 Alex Bilbie.
+ * @author    Amit Asthana <amitasthana.777@gmail.com>
  * @license   MIT License http://www.opensource.org/licenses/mit-license.php
  * @version   Release: 2.0
  * @link      https://github.com/alexbilbie/codeigniter-mongodb-library
